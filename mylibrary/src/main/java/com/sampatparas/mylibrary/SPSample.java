@@ -2,7 +2,7 @@ package com.sampatparas.mylibrary;
 
 public class SPSample {
 
-    String getFirstString(){
+    public String getFirstString(){
         return "First String";
     }
 }
